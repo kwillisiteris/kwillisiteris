@@ -1,3 +1,11 @@
-https://git-scm.com/docs/git-help
-https://education.github.com/git-cheat-sheet-education.pdf
-https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
+General Documentation
+=====================
+    https://git-scm.com/docs/git-help
+    https://education.github.com/git-cheat-sheet-education.pdf
+    https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
+
+REST API
+========
+    https://docs.github.com/en/rest/branches/branches#merge-a-branch
+	https://stackoverflow.com/questions/48493641/why-am-i-getting-this-error-with-a-php-curl-request-to-the-github-api-when-it-wo
